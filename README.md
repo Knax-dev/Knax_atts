@@ -1,2 +1,3 @@
 # Knax_atts
-A atts Commnd for Fivem Lua
+
+A command that gives the player components to the weapon
